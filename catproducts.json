@@ -12,7 +12,7 @@
                     "description": "Tasty tuna treats for your cat"
                 },
                 {
-                    "productName": "Catnip-Infused Scratching Post",
+                    "productName": "Catnip Infused Scratching Post",
                     "costPrice": 19.99,
                     "msrp": 29.99,
                     "qtyOnHand": 50,
@@ -50,7 +50,7 @@
                     "costPrice": 12.99,
                     "msrp": 18.99,
                     "qtyOnHand": 80,
-                    "description": "Salmon-flavored cat food"
+                    "description": "Salmon flavored cat food"
                 },
                 {
                     "productName": "Deluxe Cat Tree",

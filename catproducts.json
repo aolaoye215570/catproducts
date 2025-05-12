@@ -1,127 +1,124 @@
 {
-    "brands": [
+  "brands": [
+    {
+      "name": "WhiskerWorks",
+      "products": [
         {
-            "id": 1,
-            "name": "WhiskerWorks",
-            "products": [
-                {
-                    "productName": "Premium Tuna Treats",
-                    "costPrice": 5.99,
-                    "msrp": 9.99,
-                    "qtyOnHand": 100,
-                    "description": "Tasty tuna treats for your cat"
-                },
-                {
-                    "productName": "Catnip Infused Scratching Post",
-                    "costPrice": 19.99,
-                    "msrp": 29.99,
-                    "qtyOnHand": 50,
-                    "description": "A scratching post with catnip infusion"
-                },
-                {
-                    "productName": "Cozy Cat Bed",
-                    "costPrice": 15.99,
-                    "msrp": 25.99,
-                    "qtyOnHand": 30,
-                    "description": "Soft and comfy bed for your cat"
-                },
-                {
-                    "productName": "Interactive Laser Toy",
-                    "costPrice": 10.99,
-                    "msrp": 15.99,
-                    "qtyOnHand": 200,
-                    "description": "Laser toy to engage your cat"
-                },
-                {
-                    "productName": "Grooming Comb",
-                    "costPrice": 7.99,
-                    "msrp": 12.99,
-                    "qtyOnHand": 150,
-                    "description": "Perfect comb for grooming"
-                }
-            ]
+          "productName": "Premium Tuna Treats",
+          "costPrice": 5.99,
+          "msrp": 9.99,
+          "qtyOnHand": 100,
+          "description": "Tasty tuna treats for your cat"
         },
         {
-            "id": 2,
-            "name": "Purrfection Paws",
-            "products": [
-                {
-                    "productName": "Salmon Delight Food",
-                    "costPrice": 12.99,
-                    "msrp": 18.99,
-                    "qtyOnHand": 80,
-                    "description": "Salmon flavored cat food"
-                },
-                {
-                    "productName": "Deluxe Cat Tree",
-                    "costPrice": 45.99,
-                    "msrp": 69.99,
-                    "qtyOnHand": 20,
-                    "description": "Luxury tree for cats to climb and nap"
-                },
-                {
-                    "productName": "Cat Collar with Name Tag",
-                    "costPrice": 4.99,
-                    "msrp": 9.99,
-                    "qtyOnHand": 200,
-                    "description": "A stylish collar with a personalized name tag"
-                },
-                {
-                    "productName": "Cat Litter Box with Privacy Shield",
-                    "costPrice": 19.99,
-                    "msrp": 29.99,
-                    "qtyOnHand": 50,
-                    "description": "Litter box with a privacy shield for your cat"
-                },
-                {
-                    "productName": "Organic Catnip",
-                    "costPrice": 5.49,
-                    "msrp": 8.99,
-                    "qtyOnHand": 300,
-                    "description": "Organic catnip for extra fun"
-                }
-            ]
+          "productName": "Catnip Infused Scratching Post",
+          "costPrice": 19.99,
+          "msrp": 29.99,
+          "qtyOnHand": 50,
+          "description": "A scratching post with catnip infusion"
         },
         {
-            "id": 3,
-            "name": "KittyKingdom",
-            "products": [
-                {
-                    "productName": "Chicken Flavored Treats",
-                    "costPrice": 7.99,
-                    "msrp": 11.99,
-                    "qtyOnHand": 100,
-                    "description": "Delicious chicken treats for your cat"
-                },
-                {
-                    "productName": "Smart Cat Feeder",
-                    "costPrice": 50.99,
-                    "msrp": 75.99,
-                    "qtyOnHand": 30,
-                    "description": "Automated smart feeder for your cat"
-                },
-                {
-                    "productName": "Designer Cat Carrier",
-                    "costPrice": 39.99,
-                    "msrp": 59.99,
-                    "qtyOnHand": 20,
-                    "description": "Trendy carrier for your cat"
-                },
-                {
-                    "productName": "Scented Litter (Lavender)",
-                    "costPrice": 9.99,
-                    "msrp": 14.99,
-                    "qtyOnHand": 150,
-                    "description": "Scented lavender litter"
-                },
-                {
-                    "productName": "Heated Cat Bed",
-                    "costPrice": 35.99,
-                    "msrp": 49.99,
-                    "qtyOnHand": 40,
-                    "description": "Warm heated bed for colder months"
-                }
-            ]
+          "productName": "Cozy Cat Bed",
+          "costPrice": 15.99,
+          "msrp": 25.99,
+          "qtyOnHand": 30,
+          "description": "Soft and comfy bed for your cat"
+        },
+        {
+          "productName": "Interactive Laser Toy",
+          "costPrice": 10.99,
+          "msrp": 15.99,
+          "qtyOnHand": 200,
+          "description": "Laser toy to engage your cat"
+        },
+        {
+          "productName": "Grooming Comb",
+          "costPrice": 7.99,
+          "msrp": 12.99,
+          "qtyOnHand": 150,
+          "description": "Perfect comb for grooming"
         }
-    ]
+      ]
+    },
+    {
+      "name": "Purrfection Paws",
+      "products": [
+        {
+          "productName": "Salmon Delight Food",
+          "costPrice": 12.99,
+          "msrp": 18.99,
+          "qtyOnHand": 80,
+          "description": "Salmon flavored cat food"
+        },
+        {
+          "productName": "Deluxe Cat Tree",
+          "costPrice": 45.99,
+          "msrp": 69.99,
+          "qtyOnHand": 20,
+          "description": "Luxury tree for cats to climb and nap"
+        },
+        {
+          "productName": "Cat Collar with Name Tag",
+          "costPrice": 4.99,
+          "msrp": 9.99,
+          "qtyOnHand": 200,
+          "description": "A stylish collar with a personalized name tag"
+        },
+        {
+          "productName": "Cat Litter Box with Privacy Shield",
+          "costPrice": 19.99,
+          "msrp": 29.99,
+          "qtyOnHand": 50,
+          "description": "Litter box with a privacy shield for your cat"
+        },
+        {
+          "productName": "Organic Catnip",
+          "costPrice": 5.49,
+          "msrp": 8.99,
+          "qtyOnHand": 300,
+          "description": "Organic catnip for extra fun"
+        }
+      ]
+    },
+    {
+      "name": "KittyKingdom",
+      "products": [
+        {
+          "productName": "Chicken Flavored Treats",
+          "costPrice": 7.99,
+          "msrp": 11.99,
+          "qtyOnHand": 100,
+          "description": "Delicious chicken treats for your cat"
+        },
+        {
+          "productName": "Smart Cat Feeder",
+          "costPrice": 50.99,
+          "msrp": 75.99,
+          "qtyOnHand": 30,
+          "description": "Automated smart feeder for your cat"
+        },
+        {
+          "productName": "Designer Cat Carrier",
+          "costPrice": 39.99,
+          "msrp": 59.99,
+          "qtyOnHand": 20,
+          "description": "Trendy carrier for your cat"
+        },
+        {
+          "productName": "Scented Litter (Lavender)",
+          "costPrice": 9.99,
+          "msrp": 14.99,
+          "qtyOnHand": 150,
+          "description": "Scented lavender litter"
+        },
+        {
+          "productName": "Heated Cat Bed",
+          "costPrice": 35.99,
+          "msrp": 49.99,
+          "qtyOnHand": 40,
+          "description": "Warm heated bed for colder months"
+        }
+      ]
+    }
+  ]
 }

@@ -24,6 +24,23 @@
     "brandName": "WhiskerWorks"
   },
   {
+    "productName": "Laser Pointer Toy",
+    "costPrice": 3.49,
+    "msrp": 7.99,
+    "qtyOnHand": 120,
+    "description": "Interactive laser toy to keep cats active",
+    "brandName": "WhiskerWorks"
+  },
+  {
+    "productName": "Gourmet Cat Biscuits",
+    "costPrice": 6.29,
+    "msrp": 10.99,
+    "qtyOnHand": 90,
+    "description": "Baked treats with natural ingredients",
+    "brandName": "WhiskerWorks"
+  },
+
+  {
     "productName": "Salmon Delight Food",
     "costPrice": 12.99,
     "msrp": 18.99,
@@ -40,6 +57,31 @@
     "brandName": "Purrfection Paws"
   },
   {
+    "productName": "Interactive Feather Wand",
+    "costPrice": 4.99,
+    "msrp": 8.99,
+    "qtyOnHand": 110,
+    "description": "Fun toy to engage your cat's hunting instincts",
+    "brandName": "Purrfection Paws"
+  },
+  {
+    "productName": "Calming Cat Collar",
+    "costPrice": 8.49,
+    "msrp": 12.99,
+    "qtyOnHand": 60,
+    "description": "Soothing lavender scented calming collar",
+    "brandName": "Purrfection Paws"
+  },
+  {
+    "productName": "Organic Cat Litter",
+    "costPrice": 10.99,
+    "msrp": 16.99,
+    "qtyOnHand": 40,
+    "description": "Environmentally friendly, clumping cat litter",
+    "brandName": "Purrfection Paws"
+  },
+
+  {
     "productName": "Chicken Flavored Treats",
     "costPrice": 7.99,
     "msrp": 11.99,
@@ -53,6 +95,30 @@
     "msrp": 75.99,
     "qtyOnHand": 30,
     "description": "Automated smart feeder for your cat",
+    "brandName": "KittyKingdom"
+  },
+  {
+    "productName": "Cat Tent House",
+    "costPrice": 22.49,
+    "msrp": 34.99,
+    "qtyOnHand": 25,
+    "description": "Foldable cat tent for indoor fun",
+    "brandName": "KittyKingdom"
+  },
+  {
+    "productName": "Refillable Catnip Toy",
+    "costPrice": 3.99,
+    "msrp": 6.99,
+    "qtyOnHand": 75,
+    "description": "Plush toy you can refill with fresh catnip",
+    "brandName": "KittyKingdom"
+  },
+  {
+    "productName": "Automatic Water Fountain",
+    "costPrice": 28.99,
+    "msrp": 42.99,
+    "qtyOnHand": 45,
+    "description": "Fresh filtered water on demand",
     "brandName": "KittyKingdom"
   }
 ]

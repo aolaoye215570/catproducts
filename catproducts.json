@@ -6,7 +6,7 @@
     "qtyOnHand": 100,
     "description": "Tasty tuna treats for your cat",
     "brandName": "WhiskerWorks",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "catsalmon.jpg"
   },
   {
     "productName": "Catnip Infused Scratching Post",
@@ -51,7 +51,7 @@
     "qtyOnHand": 40,
     "description": "Heated blanket to keep your kitty warm",
     "brandName": "WhiskerWorks",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "catheater.jpg"
   },
   {
     "productName": "Window Perch Seat",
@@ -60,7 +60,7 @@
     "qtyOnHand": 25,
     "description": "Window-mounted cat seat for sunbathing",
     "brandName": "WhiskerWorks",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "catperchseat.jpg"
   },
   {
     "productName": "Fish Plush Toy",
@@ -69,7 +69,7 @@
     "qtyOnHand": 95,
     "description": "Plush fish toy for cats",
     "brandName": "WhiskerWorks",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "catplushtoy.jpg"
   },
   {
     "productName": "Self-Grooming Brush Arch",
@@ -78,7 +78,7 @@
     "qtyOnHand": 65,
     "description": "Arched brush for self-grooming fun",
     "brandName": "WhiskerWorks",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "catbrush.jpg"
   },
   {
     "productName": "Dual Bowl Feeding Station",
@@ -87,7 +87,7 @@
     "qtyOnHand": 70,
     "description": "Food and water in one stylish station",
     "brandName": "WhiskerWorks",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "catfeedingstation.jpg"
   },
   {
     "productName": "Salmon Delight Food",
@@ -141,7 +141,7 @@
     "qtyOnHand": 55,
     "description": "Removes loose fur and massages at once",
     "brandName": "Purrfection Paws",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "catgroomglove.jpg"
   },
   {
     "productName": "Hanging Cat Tunnel",
@@ -150,7 +150,7 @@
     "qtyOnHand": 35,
     "description": "Fun collapsible tunnel for your feline",
     "brandName": "Purrfection Paws",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "cattunnel.jpg"
   },
   {
     "productName": "Freeze Dried Chicken Snacks",
@@ -159,16 +159,16 @@
     "qtyOnHand": 75,
     "description": "High-protein, single ingredient treat",
     "brandName": "Purrfection Paws",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "catsnacks.jpg"
   },
   {
-    "productName": "Sisal Ball Toys (Set of 3)",
+    "productName": "Sisal Ball Toys ",
     "costPrice": 3.99,
     "msrp": 6.99,
     "qtyOnHand": 95,
     "description": "Durable natural-fiber play balls",
     "brandName": "Purrfection Paws",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "catballtoy.jpg"
   },
   {
     "productName": "Window Hammock",
@@ -177,7 +177,7 @@
     "qtyOnHand": 30,
     "description": "Cozy suction-mounted window hammock",
     "brandName": "Purrfection Paws",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "cathammock.jpg"
   },
   {
     "productName": "Chicken Flavored Treats",
@@ -231,7 +231,7 @@
     "qtyOnHand": 80,
     "description": "Glowing tag for night visibility",
     "brandName": "KittyKingdom",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "catcollar.jpg"
   },
   {
     "productName": "Luxury Cat Hoodie",
@@ -240,7 +240,7 @@
     "qtyOnHand": 40,
     "description": "Stylish hoodie for fashion-forward felines",
     "brandName": "KittyKingdom",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "cathoodie.jpg"
   },
   {
     "productName": "Interactive Treat Puzzle",
@@ -249,7 +249,7 @@
     "qtyOnHand": 35,
     "description": "Mental stimulation toy with reward mechanism",
     "brandName": "KittyKingdom",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "catpuzzle.jpg"
   },
   {
     "productName": "Ceramic Food Bowl",
@@ -258,7 +258,7 @@
     "qtyOnHand": 60,
     "description": "Dishwasher-safe and weighted to prevent spills",
     "brandName": "KittyKingdom",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "catceramicbowl.jpg"
   },
   {
     "productName": "Feather Mice (Pack of 5)",
@@ -267,6 +267,6 @@
     "qtyOnHand": 90,
     "description": "Colorful feather mice for endless fun",
     "brandName": "KittyKingdom",
-    "graphicName": "placeholder.jpg"
+    "graphicName": "catfeathermice.jpg"
   }
 ]

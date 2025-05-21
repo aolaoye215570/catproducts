@@ -5,7 +5,8 @@
     "msrp": 9.99,
     "qtyOnHand": 100,
     "description": "Tasty tuna treats for your cat",
-    "brandName": "WhiskerWorks"
+    "brandName": "WhiskerWorks",
+    "graphicName": "catsalmon"
   },
   {
     "productName": "Catnip Infused Scratching Post",
@@ -14,6 +15,8 @@
     "qtyOnHand": 50,
     "description": "A scratching post with catnip infusion",
     "brandName": "WhiskerWorks"
+    "graphicName": "cattree"
+
   },
   {
     "productName": "Cozy Cat Bed",
@@ -22,6 +25,7 @@
     "qtyOnHand": 30,
     "description": "Soft and comfy bed for your cat",
     "brandName": "WhiskerWorks"
+    "graphicName": "cattent"
   },
   {
     "productName": "Laser Pointer Toy",
@@ -30,6 +34,7 @@
     "qtyOnHand": 120,
     "description": "Interactive laser toy to keep cats active",
     "brandName": "WhiskerWorks"
+    "graphicName": "catpointertoy"
   },
   {
     "productName": "Gourmet Cat Biscuits",
@@ -38,6 +43,7 @@
     "qtyOnHand": 90,
     "description": "Baked treats with natural ingredients",
     "brandName": "WhiskerWorks"
+    "graphicName": "catbuiscuite"
   },
 
   {
@@ -47,6 +53,7 @@
     "qtyOnHand": 80,
     "description": "Salmon flavored cat food",
     "brandName": "Purrfection Paws"
+    "graphicName": "catsalmon"
   },
   {
     "productName": "Deluxe Cat Tree",
@@ -55,6 +62,7 @@
     "qtyOnHand": 20,
     "description": "Luxury tree for cats to climb and nap",
     "brandName": "Purrfection Paws"
+    "graphicName": "cattree"
   },
   {
     "productName": "Interactive Feather Wand",
@@ -63,6 +71,7 @@
     "qtyOnHand": 110,
     "description": "Fun toy to engage your cat's hunting instincts",
     "brandName": "Purrfection Paws"
+    "graphicName": "catwand"
   },
   {
     "productName": "Calming Cat Collar",
@@ -71,6 +80,7 @@
     "qtyOnHand": 60,
     "description": "Soothing lavender scented calming collar",
     "brandName": "Purrfection Paws"
+    "graphicName": "catcollar"
   },
   {
     "productName": "Organic Cat Litter",
@@ -79,6 +89,7 @@
     "qtyOnHand": 40,
     "description": "Environmentally friendly, clumping cat litter",
     "brandName": "Purrfection Paws"
+    "graphicName": "catlitter"
   },
 
   {
@@ -88,6 +99,7 @@
     "qtyOnHand": 100,
     "description": "Delicious chicken treats for your cat",
     "brandName": "KittyKingdom"
+    "graphicName": "catfoodchicken"
   },
   {
     "productName": "Smart Cat Feeder",
@@ -96,6 +108,7 @@
     "qtyOnHand": 30,
     "description": "Automated smart feeder for your cat",
     "brandName": "KittyKingdom"
+    "graphicName": "catfeeder"
   },
   {
     "productName": "Cat Tent House",
@@ -104,6 +117,7 @@
     "qtyOnHand": 25,
     "description": "Foldable cat tent for indoor fun",
     "brandName": "KittyKingdom"
+    "graphicName": "cattent"
   },
   {
     "productName": "Refillable Catnip Toy",
@@ -112,6 +126,7 @@
     "qtyOnHand": 75,
     "description": "Plush toy you can refill with fresh catnip",
     "brandName": "KittyKingdom"
+    "graphicName": "catniptoy"
   },
   {
     "productName": "Automatic Water Fountain",
@@ -120,5 +135,6 @@
     "qtyOnHand": 45,
     "description": "Fresh filtered water on demand",
     "brandName": "KittyKingdom"
+    "graphicName": "cat water"
   }
 ]

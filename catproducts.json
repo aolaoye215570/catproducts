@@ -42,7 +42,7 @@
     "qtyOnHand": 90,
     "description": "Baked treats with natural ingredients",
     "brandName": "WhiskerWorks",
-    "graphicName": "catbiscuit.webp"
+    "graphicName": "catbiscuit.jpg"
   },
   {
     "productName": "Heated Cat Blanket",
@@ -87,7 +87,7 @@
     "qtyOnHand": 70,
     "description": "Food and water in one stylish station",
     "brandName": "WhiskerWorks",
-    "graphicName": "catfeedstation.jpg"
+    "graphicName": "catfeedstat.jpg"
   },
   {
     "productName": "Salmon Delight Food",

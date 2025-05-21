@@ -58,7 +58,7 @@
     "costPrice": 21.99,
     "msrp": 32.99,
     "qtyOnHand": 25,
-    "description": "Window-mounted cat seat for sunbathing",
+    "description": "Window mounted cat seat for sunbathing",
     "brandName": "WhiskerWorks",
     "graphicName": "catperchseat.jpg"
   },
@@ -72,11 +72,11 @@
     "graphicName": "catplushtoy.jpg"
   },
   {
-    "productName": "Self-Grooming Brush Arch",
+    "productName": "Self Grooming Brush Arch",
     "costPrice": 9.49,
     "msrp": 14.99,
     "qtyOnHand": 65,
-    "description": "Arched brush for self-grooming fun",
+    "description": "Arched brush for self grooming fun",
     "brandName": "WhiskerWorks",
     "graphicName": "catbrush.jpg"
   },
@@ -157,7 +157,7 @@
     "costPrice": 7.49,
     "msrp": 12.49,
     "qtyOnHand": 75,
-    "description": "High-protein, single ingredient treat",
+    "description": "High protein, single ingredient treat",
     "brandName": "Purrfection Paws",
     "graphicName": "catsnacks.jpg"
   },
@@ -166,7 +166,7 @@
     "costPrice": 3.99,
     "msrp": 6.99,
     "qtyOnHand": 95,
-    "description": "Durable natural-fiber play balls",
+    "description": "Durable natural fiber play balls",
     "brandName": "Purrfection Paws",
     "graphicName": "catballtoy.jpg"
   },
@@ -175,7 +175,7 @@
     "costPrice": 17.99,
     "msrp": 26.99,
     "qtyOnHand": 30,
-    "description": "Cozy suction-mounted window hammock",
+    "description": "Cozy suction mounted window hammock",
     "brandName": "Purrfection Paws",
     "graphicName": "cathammock.jpg"
   },
@@ -238,7 +238,7 @@
     "costPrice": 14.99,
     "msrp": 23.99,
     "qtyOnHand": 40,
-    "description": "Stylish hoodie for fashion-forward felines",
+    "description": "Stylish hoodie for fashion forward felines",
     "brandName": "KittyKingdom",
     "graphicName": "cathoodie.jpg"
   },
@@ -256,7 +256,7 @@
     "costPrice": 6.49,
     "msrp": 10.99,
     "qtyOnHand": 60,
-    "description": "Dishwasher-safe and weighted to prevent spills",
+    "description": "Dishwasher safe and weighted to prevent spills",
     "brandName": "KittyKingdom",
     "graphicName": "catceramicbowl.jpg"
   },

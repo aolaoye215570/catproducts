@@ -42,7 +42,7 @@
     "qtyOnHand": 90,
     "description": "Baked treats with natural ingredients",
     "brandName": "WhiskerWorks",
-    "graphicName": "catbiscuits.webp"
+    "graphicName": "catbiscuit.webp"
   },
   {
     "productName": "Heated Cat Blanket",
@@ -60,7 +60,7 @@
     "qtyOnHand": 25,
     "description": "Window mounted cat seat for sunbathing",
     "brandName": "WhiskerWorks",
-    "graphicName": "catperchseat.jpg"
+    "graphicName": "cathammock.jpg"
   },
   {
     "productName": "Fish Plush Toy",

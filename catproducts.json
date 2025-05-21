@@ -5,8 +5,7 @@
     "msrp": 9.99,
     "qtyOnHand": 100,
     "description": "Tasty tuna treats for your cat",
-    "brandName": "WhiskerWorks",
-    "graphicName": "catsalmon"
+    "brandName": "WhiskerWorks"
   },
   {
     "productName": "Catnip Infused Scratching Post",
@@ -14,9 +13,7 @@
     "msrp": 29.99,
     "qtyOnHand": 50,
     "description": "A scratching post with catnip infusion",
-    "brandName": "WhiskerWorks",
-    "graphicName": "cattree"
-
+    "brandName": "WhiskerWorks"
   },
   {
     "productName": "Cozy Cat Bed",
@@ -24,8 +21,7 @@
     "msrp": 25.99,
     "qtyOnHand": 30,
     "description": "Soft and comfy bed for your cat",
-    "brandName": "WhiskerWorks",
-    "graphicName": "cattent"
+    "brandName": "WhiskerWorks"
   },
   {
     "productName": "Laser Pointer Toy",
@@ -33,8 +29,7 @@
     "msrp": 7.99,
     "qtyOnHand": 120,
     "description": "Interactive laser toy to keep cats active",
-    "brandName": "WhiskerWorks",
-    "graphicName": "catpointertoy"
+    "brandName": "WhiskerWorks"
   },
   {
     "productName": "Gourmet Cat Biscuits",
@@ -42,18 +37,15 @@
     "msrp": 10.99,
     "qtyOnHand": 90,
     "description": "Baked treats with natural ingredients",
-    "brandName": "WhiskerWorks",
-    "graphicName": "catbuiscuite"
+    "brandName": "WhiskerWorks"
   },
-
   {
     "productName": "Salmon Delight Food",
     "costPrice": 12.99,
     "msrp": 18.99,
     "qtyOnHand": 80,
     "description": "Salmon flavored cat food",
-    "brandName": "Purrfection Paws",
-    "graphicName": "catsalmon"
+    "brandName": "Purrfection Paws"
   },
   {
     "productName": "Deluxe Cat Tree",
@@ -61,8 +53,7 @@
     "msrp": 69.99,
     "qtyOnHand": 20,
     "description": "Luxury tree for cats to climb and nap",
-    "brandName": "Purrfection Paws",
-    "graphicName": "cattree"
+    "brandName": "Purrfection Paws"
   },
   {
     "productName": "Interactive Feather Wand",
@@ -70,8 +61,7 @@
     "msrp": 8.99,
     "qtyOnHand": 110,
     "description": "Fun toy to engage your cat's hunting instincts",
-    "brandName": "Purrfection Paws",
-    "graphicName": "catwand"
+    "brandName": "Purrfection Paws"
   },
   {
     "productName": "Calming Cat Collar",
@@ -79,8 +69,7 @@
     "msrp": 12.99,
     "qtyOnHand": 60,
     "description": "Soothing lavender scented calming collar",
-    "brandName": "Purrfection Paws",
-    "graphicName": "catcollar"
+    "brandName": "Purrfection Paws"
   },
   {
     "productName": "Organic Cat Litter",
@@ -88,18 +77,15 @@
     "msrp": 16.99,
     "qtyOnHand": 40,
     "description": "Environmentally friendly, clumping cat litter",
-    "brandName": "Purrfection Paws",
-    "graphicName": "catlitter"
+    "brandName": "Purrfection Paws"
   },
-
   {
     "productName": "Chicken Flavored Treats",
     "costPrice": 7.99,
     "msrp": 11.99,
     "qtyOnHand": 100,
     "description": "Delicious chicken treats for your cat",
-    "brandName": "KittyKingdom",
-    "graphicName": "catfoodchicken"
+    "brandName": "KittyKingdom"
   },
   {
     "productName": "Smart Cat Feeder",
@@ -107,8 +93,7 @@
     "msrp": 75.99,
     "qtyOnHand": 30,
     "description": "Automated smart feeder for your cat",
-    "brandName": "KittyKingdom",
-    "graphicName": "catfeeder"
+    "brandName": "KittyKingdom"
   },
   {
     "productName": "Cat Tent House",
@@ -116,8 +101,7 @@
     "msrp": 34.99,
     "qtyOnHand": 25,
     "description": "Foldable cat tent for indoor fun",
-    "brandName": "KittyKingdom",
-    "graphicName": "cattent"
+    "brandName": "KittyKingdom"
   },
   {
     "productName": "Refillable Catnip Toy",
@@ -125,8 +109,7 @@
     "msrp": 6.99,
     "qtyOnHand": 75,
     "description": "Plush toy you can refill with fresh catnip",
-    "brandName": "KittyKingdom",
-    "graphicName": "catniptoy"
+    "brandName": "KittyKingdom"
   },
   {
     "productName": "Automatic Water Fountain",
@@ -134,7 +117,6 @@
     "msrp": 42.99,
     "qtyOnHand": 45,
     "description": "Fresh filtered water on demand",
-    "brandName": "KittyKingdom",
-    "graphicName": "cat water"
+    "brandName": "KittyKingdom"
   }
 ]
